@@ -1,0 +1,38 @@
+#outputField {
+    -fx-font-size: 24;
+    -fx-text-alignment: right;
+    -fx-background-color: #e8e8e8;
+    -fx-border-width: 2;
+    -fx-border-color: #d3d3d3;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-font-size: 18;
+    -fx-min-width: 60;
+    -fx-max-width: 60;
+    -fx-min-height: 60;
+    -fx-max-height: 60;
+    -fx-background-color: #f1f1f1;
+    -fx-border-width: 2;
+    -fx-border-color: #d3d3d3;
+}
+
+.button:hover {
+    -fx-background-color: #e2e2e2;
+}
+
+#clearButton {
+    -fx-font-size: 18;
+    -fx-min-width: 120;
+    -fx-max-width: 120;
+    -fx-min-height: 60;
+    -fx-max-height: 60;
+    -fx-background-color: #f1f1f1;
+    -fx-border-width: 2;
+    -fx-border-color: #d3d3d3;
+}
+
+#clearButton:hover {
+    -fx-background-color: #e2e2e2;
+}
